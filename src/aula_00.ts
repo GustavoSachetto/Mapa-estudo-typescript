@@ -1,4 +1,4 @@
-/* =========== IMPORTANDO MODULOS =========== */
+/* ============= IMPORTANDO MODULOS ============= */
 
 // ((( IMPORT )))
 
@@ -21,4 +21,4 @@ export default people; // Export default é utilizado para exportar um modulo pa
 
 export { sum }; // Export é utilizado para exportar mais de um modulo no arquivo.
 
-/* ========================================== */
+/* ============================================== */

@@ -1,4 +1,4 @@
-/* =========== TIPOS PRIMITIVOS =========== */
+/* ============== TIPOS PRIMITIVOS ============== */
 
 // ((( NUMBER )))
 
@@ -78,4 +78,4 @@ let car: object = {
 let exampleNull: null = null;
 let exampleUndefined: undefined = undefined;
 
-/* ======================================== */
+/* ============================================== */
